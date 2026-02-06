@@ -1,5 +1,4 @@
-# Lab2-ML
-# Network Intrusion Detection with Machine Learning
+# Lab2-ML: Network Intrusion Detection with Machine Learning
 
 # Problem Statement
 The goal of this project is to explore the Network Intrusion Detection dataset and understand its structure and purpose. This dataset contains records of network traffic, where each record represents either normal activity or an intrusion (attack). The task is to classify network traffic as benign (normal) or malicious (attack) using supervised learning techniques. 
